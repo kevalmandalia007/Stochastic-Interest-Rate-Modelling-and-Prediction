@@ -1,4 +1,4 @@
-# Yield Curve Reconstruction using CIR and Multi-Factor Affine Models
+# Stochastic Interest Rate Modelling and Prediction
 
 This project investigates the reconstruction and forecasting of the U.S. Treasury yield curve using the Cox-Ingersoll-Ross (CIR) short-rate model and its multi-factor extensions. Starting from a classical single-factor CIR framework, the study develops two-factor and three-factor affine term structure models to improve out-of-sample predictive performance using only the 3-month Treasury yield as an observable input during testing.
 
@@ -10,7 +10,7 @@ The final three-factor model achieved an out-of-sample coefficient of determinat
 
 ### Main Notebook
 
-* `Yield_Curve_Reconstruction.ipynb`
+* `25123016_Keval_Mandalia_Finance_Club_IITR_Open_Project_2026_Stochastic_Interest_Rate_Modelling_and_Prediction.ipynb`
 
   Complete implementation of:
 
@@ -93,7 +93,12 @@ The results demonstrate that while the classical CIR model provides a useful fou
 
 ## Author
 
-Keval Mandalia, 25123016
+Keval Mandalia,
 
-Electrical Engineering
-Indian Institute of Technology Roorkee
+Enrollment no. : 25123016,
+
+BTech. Electrical Engineering,
+
+Department of Electrical Engineering,
+
+Indian Institute of Technology Roorkee (IIT Roorkee).
